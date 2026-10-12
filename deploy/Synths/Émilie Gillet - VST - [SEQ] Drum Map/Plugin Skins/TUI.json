@@ -1193,7 +1193,7 @@
                     }
                 },
                 {
-                    "key": "GRIDS|GRIDS",
+                    "key": "DRUM MAP|DRUM MAP",
                     "value": {
                         "version": 4,
                         "actions": [],
@@ -2133,7 +2133,7 @@
         "tabs": [
             {
                 "version": 3,
-                "tabName": "GRIDS",
+                "tabName": "DRUM MAP",
                 "fnKeyIndex": 0,
                 "fnKeySubIndex": 0,
                 "qlinkBoundsData": [
@@ -2142,7 +2142,7 @@
                     "957 126 314 134",
                     "859 405 405 118"
                 ],
-                "componentName": "GRIDS|GRIDS",
+                "componentName": "DRUM MAP|DRUM MAP",
                 "initialSize": "0 0 1280 628",
                 "scale": 1.0
             },
